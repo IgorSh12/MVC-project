@@ -1,4 +1,5 @@
 <?php
+session_start();
 # Подгрузка конфигурации проекта
 include_once 'config.php';
 # Подключаем автозагрузчик
